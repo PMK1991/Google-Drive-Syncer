@@ -1,0 +1,13 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Google OAuth credentials & tokens
+credentials.json
+token.json
+.env
+
+# Temporary download files and test outputs
+*.tmp
+test_sync/
